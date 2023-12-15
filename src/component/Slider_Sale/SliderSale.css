@@ -1,0 +1,16 @@
+ .slick-slider {
+     padding: 16px !important;
+ }
+
+ .slick-list {
+     height: auto;
+     /* background-color: aqua; */
+     padding-right: 0px;
+     /* padding-left: 40px; */
+     padding-left: 30px;
+
+ }
+
+ .slick-slide div div {
+     box-shadow: 10px;
+ }
